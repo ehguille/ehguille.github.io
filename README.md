@@ -4,7 +4,7 @@
 
 ### Herencia 
 
-**07/11/2025** [Repositorio para trabajar herencia, abstracción, atributos estáticos y orientación a objetos en general](https://github.com/ehguille/geometria).
+**07/11/2025** [Ejemplo con figuras geométricas para trabajar herencia, abstracción, atributos estáticos y orientación a objetos en general](https://github.com/ehguille/geometria).
 
 **06/11/2025** [Herencia e interfaces con electrodomésticos](https://github.com/ehguille/electrodomesticos).
 
