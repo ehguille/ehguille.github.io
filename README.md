@@ -4,6 +4,8 @@
 
 ### Herencia 
 
+**10/11/2025** (y más) [Varios ejemplos con condicionales](https://github.com/ehguille/condicionales)
+
 **07/11/2025** [Ejemplo con figuras geométricas para trabajar herencia, abstracción, atributos estáticos y orientación a objetos en general](https://github.com/ehguille/geometria).
 
 **06/11/2025** [Herencia e interfaces con electrodomésticos](https://github.com/ehguille/electrodomesticos).
