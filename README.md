@@ -2,9 +2,23 @@
 
 ## Curso 2025/2026
 
-### Herencia 
+### Estructuras de datos
+
+**12/2025** [Estructuras de datos: cola, pila](https://github.com/ehguille/estructuras). Hacen uso de todo lo anterior.
+
+### Arrays
+
+**12/2025** [Ejercicios con arrays](https://github.com/ehguille/arrays001). Hacen uso de lo anterior (bucles y condicionales).
+
+### Bucles
+
+**01/12/2025** [Ejercicios con bucles](https://github.com/ehguille/bucles001). Hacen uso de lo anterior (condicionales).
+
+### Condicionales
 
 **10/11/2025** (y más) [Varios ejemplos con condicionales](https://github.com/ehguille/condicionales)
+
+### Herencia 
 
 **07/11/2025** [Ejemplo con figuras geométricas para trabajar herencia, abstracción, atributos estáticos y orientación a objetos en general](https://github.com/ehguille/geometria).
 
