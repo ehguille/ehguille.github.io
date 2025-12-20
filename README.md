@@ -4,11 +4,11 @@
 
 ### Estructuras de datos
 
-**12/2025** [Estructuras de datos: cola, pila](https://github.com/ehguille/estructuras). Hacen uso de todo lo anterior.
+**12/2025** [Estructuras de datos: cola, pila](https://github.com/ehguille/estructuras). Hacen uso de todo lo anterior. **Update: incluye excepciones**.
 
 ### Arrays
 
-**12/2025** [Ejercicios con arrays](https://github.com/ehguille/arrays001). Hacen uso de lo anterior (bucles y condicionales).
+**12/2025** [Ejercicios con arrays](https://github.com/ehguille/arrays001). Hacen uso de lo anterior (bucles y condicionales). **Update: incluye excepciones**.
 
 ### Bucles
 
