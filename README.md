@@ -2,6 +2,10 @@
 
 ## Curso 2025/2026
 
+### Matrices
+
+**01/2025** [Ejercicios básicos con matrices: multiplicar, sumar](https://github.com/ehguille/2025-matrices-001).
+
 ### Estructuras de datos
 
 **12/2025** [Estructuras de datos: cola, pila](https://github.com/ehguille/estructuras). Hacen uso de todo lo anterior. **Update: incluye excepciones**.
