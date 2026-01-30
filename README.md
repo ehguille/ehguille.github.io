@@ -5,6 +5,7 @@
 ### Proyecto Agenda
 
 **Repositorio del proyecto** [Agenda](https://github.com/ehguille/2025_agenda).
+
 **Repositorio del depurador** [Depurador](https://github.com/ehguille/2025_depurador).
 
 ### Colecciones
