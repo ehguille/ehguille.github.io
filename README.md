@@ -2,6 +2,11 @@
 
 ## Curso 2025/2026
 
+### Proyecto Agenda
+
+**Repositorio del proyecto** [Agenda](https://github.com/ehguille/2025_agenda).
+**Repositorio del depurador** [Depurador](https://github.com/ehguille/2025_depurador).
+
 ### Colecciones
 
 **01/2026** [Ejemplos de colecciones](https://github.com/ehguille/2025_colecciones_001).
